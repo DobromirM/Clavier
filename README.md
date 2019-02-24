@@ -15,3 +15,8 @@ Also, CLAVIER allows the the navigator to write notes on ideas and things to do,
 To avoid distracting the driver, the navigator’s notes can be freezed.
 
 Finally, CLAVIER makes it possible to swap the roles of driver and navigator at the click of a button.
+
+
+![Screenshot](screenshots/clavier-menu.png)
+
+![Screenshot](screenshots/clavier-session.png)
