@@ -1,0 +1,46 @@
+bin
+obj
+node_modules
+.idea
+.vs
+*.o
+*.lo 
+*.la 
+*.al 
+.libs 
+*.so 
+*.so.[0-9]* 
+*.a 
+*.pyc 
+*.pyo 
+*.rej 
+*~ #*# 
+.#* 
+.*.swp 
+*[Bb]in 
+*obj 
+*suo 
+*resharp* 
+*.user 
+*.tmp 
+*.TMP 
+*Resharper* 
+*ReSharper* 
+*.Load 
+*.gpState 
+*.NoLoad  
+*.~m2 
+*.dbmdl _notes 
+*.cache 
+[Tt]est[Rr]esult 
+[Bb]uild[Ll]og.* 
+*.[Pp]ublish.xml 
+*.[Cc]ache 
+[Tt]humbs.db lint.db 
+*.docstates 
+.apdisk 
+[Ll]ogs 
+.DS_Store 
+*.bak 
+*.vs
+
